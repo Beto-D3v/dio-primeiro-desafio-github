@@ -1,0 +1,1 @@
+Nesta aula, aprendi como fazer um novo repositório e como otimizar o uso do git
